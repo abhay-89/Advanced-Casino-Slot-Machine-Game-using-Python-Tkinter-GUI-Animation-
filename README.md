@@ -1,0 +1,2 @@
+# Advanced-Casino-Slot-Machine-Game-using-Python-Tkinter-GUI-Animation-
+PROJECT DESCRIPTION (What This Project Does)  This project is a fully interactive Slot Machine Casino Game made using Python + Tkinter GUI.  ✔ Features:  Modern GUI interface  Deposit money  Choose Bet Amount  Spin Animation  Random slot symbols  Winnings calculated automatically  Responsive layout  Beginner-friendly + Advanced GUI features
